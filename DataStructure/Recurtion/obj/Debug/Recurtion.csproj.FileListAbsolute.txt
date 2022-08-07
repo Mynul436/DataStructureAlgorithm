@@ -1,0 +1,8 @@
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\Recurtion\bin\Debug\Recurtion.exe.config
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\Recurtion\bin\Debug\Recurtion.exe
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\Recurtion\bin\Debug\Recurtion.pdb
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\Recurtion\obj\Debug\Recurtion.csproj.AssemblyReference.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\Recurtion\obj\Debug\Recurtion.csproj.SuggestedBindingRedirects.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\Recurtion\obj\Debug\Recurtion.csproj.CoreCompileInputs.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\Recurtion\obj\Debug\Recurtion.exe
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\Recurtion\obj\Debug\Recurtion.pdb
