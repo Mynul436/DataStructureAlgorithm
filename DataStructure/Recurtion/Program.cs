@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Recurtion
+namespace RecursionHeadTail
 {
-    public class Program
+    public class Recursion
     {
         public void Calculate(int n)
         {
@@ -21,7 +21,7 @@ namespace Recurtion
         }
         static void Main(string[] args)
         {
-            Program program = new Program();
+            Recursion program = new Recursion();
             program.Calculate(10);
             Console.ReadKey();
             

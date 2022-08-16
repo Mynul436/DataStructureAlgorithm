@@ -1,0 +1,8 @@
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\LinearSearch\bin\Debug\LinearSearch.exe.config
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\LinearSearch\bin\Debug\LinearSearch.exe
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\LinearSearch\bin\Debug\LinearSearch.pdb
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\LinearSearch\obj\Debug\LinearSearch.csproj.AssemblyReference.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\LinearSearch\obj\Debug\LinearSearch.csproj.SuggestedBindingRedirects.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\LinearSearch\obj\Debug\LinearSearch.csproj.CoreCompileInputs.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\LinearSearch\obj\Debug\LinearSearch.exe
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\LinearSearch\obj\Debug\LinearSearch.pdb

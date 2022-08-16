@@ -1,0 +1,8 @@
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\RecurtionTree\bin\Debug\RecurtionTree.exe.config
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\RecurtionTree\bin\Debug\RecurtionTree.exe
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\RecurtionTree\bin\Debug\RecurtionTree.pdb
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\RecurtionTree\obj\Debug\RecurtionTree.csproj.AssemblyReference.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\RecurtionTree\obj\Debug\RecurtionTree.csproj.SuggestedBindingRedirects.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\RecurtionTree\obj\Debug\RecurtionTree.csproj.CoreCompileInputs.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\RecurtionTree\obj\Debug\RecurtionTree.exe
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\RecurtionTree\obj\Debug\RecurtionTree.pdb

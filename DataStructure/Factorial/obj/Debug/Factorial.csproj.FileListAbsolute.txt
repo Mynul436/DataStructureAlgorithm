@@ -1,0 +1,8 @@
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\Factorial\bin\Debug\Factorial.exe.config
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\Factorial\bin\Debug\Factorial.exe
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\Factorial\bin\Debug\Factorial.pdb
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\Factorial\obj\Debug\Factorial.csproj.AssemblyReference.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\Factorial\obj\Debug\Factorial.csproj.SuggestedBindingRedirects.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\Factorial\obj\Debug\Factorial.exe
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\Factorial\obj\Debug\Factorial.pdb
