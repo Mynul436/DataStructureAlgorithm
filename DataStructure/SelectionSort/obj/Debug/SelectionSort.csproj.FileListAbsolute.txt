@@ -1,0 +1,8 @@
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\SelectionSort\bin\Debug\SelectionSort.exe.config
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\SelectionSort\bin\Debug\SelectionSort.exe
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\SelectionSort\bin\Debug\SelectionSort.pdb
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\SelectionSort\obj\Debug\SelectionSort.csproj.AssemblyReference.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\SelectionSort\obj\Debug\SelectionSort.csproj.SuggestedBindingRedirects.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\SelectionSort\obj\Debug\SelectionSort.exe
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\SelectionSort\obj\Debug\SelectionSort.pdb

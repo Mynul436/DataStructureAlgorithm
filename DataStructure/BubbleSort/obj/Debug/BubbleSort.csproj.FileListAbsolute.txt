@@ -1,0 +1,8 @@
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\BubbleSort\bin\Debug\BubbleSort.exe.config
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\BubbleSort\bin\Debug\BubbleSort.exe
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\BubbleSort\bin\Debug\BubbleSort.pdb
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\BubbleSort\obj\Debug\BubbleSort.csproj.AssemblyReference.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\BubbleSort\obj\Debug\BubbleSort.csproj.SuggestedBindingRedirects.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\BubbleSort\obj\Debug\BubbleSort.exe
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\BubbleSort\obj\Debug\BubbleSort.pdb

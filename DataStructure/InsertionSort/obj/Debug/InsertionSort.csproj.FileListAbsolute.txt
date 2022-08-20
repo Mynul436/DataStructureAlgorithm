@@ -1,0 +1,8 @@
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\InsertionSort\bin\Debug\InsertionSort.exe.config
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\InsertionSort\bin\Debug\InsertionSort.exe
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\InsertionSort\bin\Debug\InsertionSort.pdb
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\InsertionSort\obj\Debug\InsertionSort.csproj.AssemblyReference.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\InsertionSort\obj\Debug\InsertionSort.csproj.SuggestedBindingRedirects.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\InsertionSort\obj\Debug\InsertionSort.csproj.CoreCompileInputs.cache
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\InsertionSort\obj\Debug\InsertionSort.exe
+E:\SWE 3.2\Interview\DataStructureAlgorithm\DataStructure\InsertionSort\obj\Debug\InsertionSort.pdb
